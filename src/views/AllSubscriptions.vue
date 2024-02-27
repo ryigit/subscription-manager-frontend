@@ -102,7 +102,6 @@ export default {
             console.error('Api Error: ', error);
         }
     },
-
     closeErrorMessage(){
         this.error = null
     }
